@@ -1,10 +1,9 @@
 # DT Money
 
 Projeto de controle financeiro para anotar gastos e entradas
-
-![home](https://user-images.githubusercontent.com/73999334/199312863-dc07cc48-b8ea-485f-a3b7-9c9ad2c444ad.png)
-![home_dados](https://user-images.githubusercontent.com/73999334/199312883-88536e34-7453-46d5-97f0-e3a66708d970.png)
-![modal](https://user-images.githubusercontent.com/73999334/199312893-a0411155-f6dd-41ca-89ee-7119d5fc2e9a.png)
+![home](https://user-images.githubusercontent.com/73999334/199313267-3aa70aa0-bf30-4cf0-b3f8-af3eac9f41ca.png)
+![home_dados](https://user-images.githubusercontent.com/73999334/199313479-d1f2b948-c58c-46ab-9b4e-e18693962a4f.png)
+![modal](https://user-images.githubusercontent.com/73999334/199313518-2880e0fd-252d-4e5d-b147-fef0d018f51f.png)
 
 ## :hammer: Funcionalidades do projeto
 
